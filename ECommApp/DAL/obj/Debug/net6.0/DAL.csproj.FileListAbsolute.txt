@@ -1,0 +1,28 @@
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Sourav Ganguly\source\repos\ECommApp\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Courses\ECommApp\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Courses\ECommApp\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Courses\ECommApp\DAL\bin\Debug\net6.0\DAL.dll
+C:\Courses\ECommApp\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.dll
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Courses\ECommApp\DAL\obj\Debug\net6.0\ref\DAL.dll

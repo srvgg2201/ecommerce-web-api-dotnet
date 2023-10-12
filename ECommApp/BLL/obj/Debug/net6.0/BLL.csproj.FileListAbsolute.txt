@@ -1,0 +1,30 @@
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\ref\BLL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Sourav Ganguly\source\repos\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Courses\ECommApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Courses\ECommApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Courses\ECommApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Courses\ECommApp\BLL\bin\Debug\net6.0\DAL.dll
+C:\Courses\ECommApp\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Courses\ECommApp\BLL\obj\Debug\net6.0\ref\BLL.dll
